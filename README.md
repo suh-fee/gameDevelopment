@@ -1,4 +1,4 @@
-#gamesDevelopment
+# gamesDevelopment
 
 Includes games made for promgramming practice and academically while at NYU Tisch for Game Design (minor). Notable projects include
 
