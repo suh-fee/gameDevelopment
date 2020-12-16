@@ -12,4 +12,6 @@ Final Project; Intro to Game Development - A visual novel murder mystery made wi
 
 High-Low - A card game based off of the classic card game. Made to learn how to create turn-based games, case-based switching, and cursor interaction.
 
-Action Elaboration - An action game made for Intro to Game Developement at NYU Tisch. Based off of a game made by Bennet Fodddy, all code was written by me to replicate the gameplay and feel of his original game. Elaborations include game logic, multiple characters, and control and game-feel tightening.
+Action Elaboration - An multiplayer action game made for Intro to Game Developement at NYU Tisch. Based off of a game made by Bennet Fodddy, all code was written by me to replicate the gameplay and feel of his original game. Elaborations include game logic, multiple characters, and control and game-feel tightening.
+
+Night in the Mall - A three player asymentrical board game made for Intro to Game Design at NYU Tisch. Made to practice game design fundementals. Work done includes board design, game balancing, and board creation using laser cutting hardware. Images included show the actual game being played. 
