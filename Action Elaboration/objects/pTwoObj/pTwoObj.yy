@@ -1,0 +1,45 @@
+{
+  "spriteId": {
+    "name": "estSpr",
+    "path": "sprites/estSpr/estSpr.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "plyParObj",
+    "path": "objects/plyParObj/plyParObj.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 1.0,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [
+    {"x":16.0,"y":16.0,},
+    {"x":16.0,"y":16.0,},
+  ],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"pTwoObj","path":"objects/pTwoObj/pTwoObj.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"_keyLeft","path":"objects/plyParObj/plyParObj.yy",},"objectId":{"name":"plyParObj","path":"objects/plyParObj/plyParObj.yy",},"value":"J","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"_keyRight","path":"objects/plyParObj/plyParObj.yy",},"objectId":{"name":"plyParObj","path":"objects/plyParObj/plyParObj.yy",},"value":"L","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "Objects",
+    "path": "folders/Objects.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "pTwoObj",
+  "tags": [],
+  "resourceType": "GMObject",
+}
